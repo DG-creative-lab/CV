@@ -118,7 +118,7 @@ Wunderman - BT client
 
 London, UK
 
-November 2018 – December 2018   
+Desember 2018 – April 2019   
 
 * project: Data management for BT direct mailing 
 * tasks:data manipulation - cleansing, enrichment, segmentation and quality assurance

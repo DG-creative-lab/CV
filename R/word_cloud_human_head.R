@@ -7,7 +7,8 @@ library(stringr)
 library(wordcloud2)
 
 
-#Load teh data 
+
+#Load the data 
 
 resume<- read_csv("C:/Users/Dessi/Desktop/business/Portfolio/Interactive_CV/CV_1/Data/resume.csv")
 
@@ -26,6 +27,7 @@ cloud_brain<-resume%>%
 
 #create a wordcloud
 
-wordcloud2(cloud_brain, size=0.7)
-wordcloud2(cloud_brain,size=0.7, figPath = "images/head_brain.jpg", color = "skyblue")
-letterCloud(cloud_brain,size=0.7, word = "HireMe", color = "skyblue")
+
+letterCloud(cloud_brain, word = "DG", color = "black")
+
+
