@@ -1,0 +1,233 @@
+---
+title: "Dessi's resume"
+author: Dessi G
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+
+---
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> dessi.georgieva8@gmil.com
+- <i class="fa fa-github"></i> [github.com/DG-creative-lab](https://github.com/DG-creative-lab)
+(_I am currently pushing projects here_)
+- <i class="fa fa-phone"></i> 07756047757
+- <i class="fa fa-linkedin-square"
+aria-hidden="true"></i>[linkedin.com/dessi-georgieva](https://www.linkedin.com/in/dessi-georgieva-997a8732/)
+
+
+
+Profile {#skills}
+--------------------------------------------------------------------------------
+
+I have been working predominantly within the tech industry taking up on variety of projects ranging from data analysis and exploration to business intelligence and data strategy. Currently my curiosity is entirely overwhelmed by Machine Learning, AI and the possibilities of Super Intelligence – are we all living in a simulation <i class="fas fa-user-astronaut"></i>
+
+My personal "Why" and action trigger in three words is curiosity, change and evolution. How things work. How to make them better. How to create something new. 
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown)
+(_html_resume template writen by Yihui Xie and Romain Lesur_)
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Dessi Georgieva {#title}
+--------------------------------------------------------------------------------
+### DATA ANALYST
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### BCS The Chartered Institute for IT
+
+Business Analyst Qualification
+
+London, UK
+
+2016
+
+
+
+### University of York
+
+MA Human Rights
+
+York, UK
+
+2011
+
+
+
+### Sofia University
+
+BA Philosophy
+
+Sofia, Bulgaria 
+
+2007
+
+
+Freelance Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Data Consultant 
+
+Founders Forum
+
+London, UK
+
+January 2020 – April 2020 
+
+* project: Database migration
+* tasks: user requirements gathering; data extraction, transformation and load; Chat Bot user manual
+* tools: SQL, Salesforce, Pardot, IBM Watson, R
+
+### Data Analyst 
+
+Toaster - Google client
+
+London, UK
+
+October 2019 - November 2019  
+
+* project: product marketing analysis - Google Pixel 3a
+* tasks: data scraping; sentiment analysis; text mining
+* tools: R
+* project: You Tube`s Marketing - Performance Analysis
+* tasks: requirements gathering; data sourcing, analysis and visualisation; A/B test design 
+* tools: SQL, R, Google Big Query, Google Data Studio
+
+### SQL Developer
+
+Wunderman - BT client
+
+London, UK
+
+November 2018 – December 2018   
+
+* project: Data management for BT direct mailing 
+* tasks:data manipulation - cleansing, enrichment, segmentation and quality assurance
+
+### Data Consultant 
+
+BCW (Burson Cohn & Wolfe)
+
+London, UK
+
+November 2018 – December 2018   
+
+* project: Development of budget calculator prototype for social media add spent (CPM, CPV, CPC )
+* tools: R Shiny App, Excel
+
+### Data Specialist 
+
+Reed Business Information
+
+London, UK
+
+July 2018 – October 2018
+
+* project: development of data strategy:
+* tasks: requirements gatherting; data sourcing, transformation and integration; data flow automation
+* Tools: SQL, Salesforce, Adobe Analytics, Alteryx
+
+### Data Consultant 
+
+Founders Factory
+
+London, UK
+
+June 2018 – August 2018
+
+* project: web scraping and marketing data preparation
+* tasks:built of API and HTML web scrapers; data cleansing and normalisation
+* tools: R, SQL
+
+
+### CRM Business Data Consultant 
+
+Oracle Data Cloud
+
+London, UK
+
+September 2017 – January 2018   
+
+* project: Development of marketing data strategy
+* tasks: Business case for data integration, data enrichment and quality; build of reporting        structures for marketing and sales intelligence
+* Tools: SQL, Salesforce, Pardot, Altryx
+
+
+### Customer Data Analyst 
+
+The Drum
+
+London, UK
+
+March 2017 – September 2017
+
+* project: Development of marketing and sales data strategy
+* tasks: design, execution and analysis of CRM marketing campaigns; subscribers and Clients profiling, segmentation and KPI reporting
+* Tools: SQL, Salesforce, Pardot
+
+
+Other projects {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Marketing Data Officer
+
+Royal National Institute of Blind People
+
+London, UK
+
+March 2016 – March 2017
+
+* Marketing campaign data analysis and segmentation
+
+
+### Data Consultant 
+
+Richard House Children`s Hospice
+
+London, UK
+
+March 2015 – December 2015
+
+* Data Management
+
+
+### Fundraising and Database Executive  
+
+Peace Direct
+
+London, UK
+
+February 2014 – October 2015 
+
+* Organisation`s data management
+
+
+### Project Manager
+
+Borneo Orangutan Survival Foundation
+
+London, UK
+
+November 2012 – April 2015  
+
+* Management of corporate fundraising projects
+
