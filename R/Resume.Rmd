@@ -16,19 +16,20 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> dessi.georgieva8@gmil.com
+- <i class="fa fa-envelope"></i> dessi.georgieva8@gmail.com
 - <i class="fa fa-github"></i> [github.com/DG-creative-lab](https://github.com/DG-creative-lab)
-(_I am currently pushing projects here_)
+- (_I am currently pushing projects here_)
 - <i class="fa fa-phone"></i> 07756047757
 - <i class="fa fa-linkedin-square"
-aria-hidden="true"></i>[linkedin.com/dessi-georgieva](https://www.linkedin.com/in/dessi-georgieva-997a8732/)
+aria-hidden="true"></i> [linkedin.com/dessi-georgieva](https://www.linkedin.com/in/dessi-georgieva-997a8732/)
+- <i class="fa fa-medium" aria-hidden="true"></i>[medium.com/@dessi.georgieva8](https://medium.com/@dessi.georgieva8)
 
 
 
 Profile {#skills}
 --------------------------------------------------------------------------------
 
-I have been working predominantly within the tech industry taking up on variety of projects ranging from data analysis and exploration to business intelligence and data strategy. Currently my curiosity is entirely overwhelmed by Machine Learning, AI and the possibilities of Super Intelligence – are we all living in a simulation <i class="fas fa-user-astronaut"></i>
+I have been working predominantly within the tech industry taking up on variety of projects ranging from data analysis and exploration to business intelligence and data strategy.
 
 My personal "Why" and action trigger in three words is curiosity, change and evolution. How things work. How to make them better. How to create something new. 
 
@@ -108,7 +109,7 @@ October 2019 - November 2019
 * project: product marketing analysis - Google Pixel 3a
 * tasks: data scraping; sentiment analysis; text mining
 * tools: R
-* project: You Tube`s Marketing - Performance Analysis
+* project: YouTube`s Marketing - Performance Analysis
 * tasks: requirements gathering; data sourcing, analysis and visualisation; A/B test design 
 * tools: SQL, R, Google Big Query, Google Data Studio
 
@@ -131,7 +132,7 @@ London, UK
 
 November 2018 – December 2018   
 
-* project: Development of budget calculator prototype for social media add spent (CPM, CPV, CPC )
+* project: Development of  prototype budget calculator for social media ad spent (CPM, CPV, CPC )
 * tools: R Shiny App, Excel
 
 ### Data Specialist 
@@ -143,7 +144,7 @@ London, UK
 July 2018 – October 2018
 
 * project: development of data strategy:
-* tasks: requirements gatherting; data sourcing, transformation and integration; data flow automation
+* tasks: requirements gathering; data sourcing, transformation and integration; data flow automation
 * Tools: SQL, Salesforce, Adobe Analytics, Alteryx
 
 ### Data Consultant 
@@ -165,7 +166,7 @@ Oracle Data Cloud
 
 London, UK
 
-September 2017 – January 2018   
+October 2017 – December 2018   
 
 * project: Development of marketing data strategy
 * tasks: Business case for data integration, data enrichment and quality; build of reporting        structures for marketing and sales intelligence
@@ -194,7 +195,7 @@ Royal National Institute of Blind People
 
 London, UK
 
-March 2016 – March 2017
+July 2016 – March 2017
 
 * Marketing campaign data analysis and segmentation
 
@@ -205,7 +206,7 @@ Richard House Children`s Hospice
 
 London, UK
 
-March 2015 – December 2015
+June 2015 – December 2015
 
 * Data Management
 
